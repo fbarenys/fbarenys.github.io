@@ -3,13 +3,7 @@
 	text-align: center;
   }
 
-footer{
-	width: 100%;
-	text-align: center;
-	background-color: whitesmoke;
 
-    
-}
 
 #navbar {
 	overflow: hidden;
@@ -45,13 +39,6 @@ a {
 }
 
 
-#foot {
-	background-color: black;
-	color: white;
-    position: absolute;
-	bottom: 0;
-	
-}
 <--picture-->
 
 div.polaroid {
